@@ -1,6 +1,6 @@
 
-train: /yolov7/train/images  # 118287 images
-val: /yolov7/valid/images  # 5000 images
+train: train/images  # 118287 images
+val: valid/images  # 5000 images
 
 
 # number of classes
