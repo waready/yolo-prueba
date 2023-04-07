@@ -1,0 +1,10 @@
+
+train: /yolov7/train/images  # 118287 images
+val: /yolov7/valid/images  # 5000 images
+
+
+# number of classes
+nc: 1
+
+# class names
+names: [ 'Resistencias']
